@@ -1,11 +1,7 @@
 <h1 align="center">Hi there, I'm Simen 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/main/ai_visualization.gif" alt="AI Visualization" />
-</p>
-
-<p align="center">
-  <em>AI!.</em>
+  <em>AI!</em>
 </p>
 
 ---
