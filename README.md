@@ -4,9 +4,7 @@
   <em>AI!</em>
 </p>
 
-![Digital Brain Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzgyb2Q0Nmk2Y3JqMDMxcG16dTF2cjR0YTd1NmZ4dHhseGVwdDZsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy-downsized-large.gif)
-
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
 
 ### 🔗 Connect with me:
 
