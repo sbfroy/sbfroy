@@ -4,6 +4,8 @@
   <em>AI!</em>
 </p>
 
+<iframe src="https://giphy.com/embed/PjJ1cLHqLEveXysGDB" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/digital-brain-ai-PjJ1cLHqLEveXysGDB">via GIPHY</a></p>
+
 ---
 
 ### 🔗 Connect with me:
