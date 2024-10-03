@@ -1,8 +1,7 @@
-<h1 align="center">Hi there, I'm Simen 👋</h1>
-
 <table>
   <tr>
     <td>
+      <h1 align="center">Hi there, I'm Simen 👋</h1>
       <p align="center">
         <em>AI!</em>
       </p>
