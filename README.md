@@ -4,12 +4,8 @@
   <em>AI!</em>
 </p>
 
-![Digital Brain Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdxNDZteWlxMmc5M29xcHIwbDl0cm45OWc3ejM3YTJhbmYyN2xjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif)
+![Digital Brain Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzgyb2Q0Nmk2Y3JqMDMxcG16dTF2cjR0YTd1NmZ4dHhseGVwdDZsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy-downsized-large.gif)
 
-![Digital Brain Animation](https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif)
-
-
-<iframe src="https://giphy.com/embed/PjJ1cLHqLEveXysGDB" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/digital-brain-ai-PjJ1cLHqLEveXysGDB">via GIPHY</a></p>
 
 
 ### 🔗 Connect with me:
