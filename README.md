@@ -4,7 +4,7 @@
   <em>AI!</em>
 </p>
 
-![Digital Brain Animation](https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif)
+![Digital Brain Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdxNDZteWlxMmc5M29xcHIwbDl0cm45OWc3ejM3YTJhbmYyN2xjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif)
 
 
 ### 🔗 Connect with me:
