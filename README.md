@@ -1,5 +1,8 @@
 <table>
   <tr>
+     <td>
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
+    </td>
     <td>
       <h1 align="center">Hi there, I'm Simen 👋</h1>
       <p align="center">
@@ -14,9 +17,6 @@
           <img src="https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white&style=flat" />
         </a>
       </p>
-    </td>
-    <td>
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
     </td>
   </tr>
 </table>
