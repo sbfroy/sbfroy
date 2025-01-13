@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Simen 👋</h1>
+<h1 align="center">print("Hello, World!") I'm Simen 👋</h1>
 <p align="center">
-  <em>AI Enthusiast & Technology Explorer</em>
+  <em>AI Student</em>
 </p>
 
 <div align="center">
