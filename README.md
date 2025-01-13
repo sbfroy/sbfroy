@@ -1,4 +1,4 @@
-<h1 align="center">print("Hello, World!") I'm Simen 👋</h1>
+<h1 align="center">print("Hello, World! I'm Simen.")</h1>
 <p align="center">
   <em>AI Student</em>
 </p>
