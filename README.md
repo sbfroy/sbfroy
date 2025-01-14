@@ -1,13 +1,11 @@
-<h1 align="center">print("Hello, World! I'm Simen.")</h1>
-<p align="center">
-  <em>AI Student</em>
-</p>
+```plaintext
+>>> python train_ronaldo.py
 
-<div align="center">
-  <a href="https://linkedin.com/in/sbfroy" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=flat&logoWidth=30" alt="LinkedIn">
-  </a>
-  <a href="mailto:sbfroyland@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white&style=flat&logoWidth=30" alt="Email">
-  </a>
-</div>
+[Epoch 1/5] 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ Loss: 7.4321 | Accuracy: 21.3%
+[Epoch 2/5] 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ Loss: 4.5123 | Accuracy: 57.0% 
+[Epoch 3/5] 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ Loss: 3.2314 | Accuracy: 72.9% 
+[Epoch 4/5] 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ Loss: 1.2312 | Accuracy: 90.7% 
+[Epoch 5/5] 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 Loss: 0.8231 | Accuracy: 95.6%
+
+Training Complete! Model Achieved 100% GOAT Status.
+Cristiano Ronaldo says: **SIUUU!**
