@@ -5,5 +5,5 @@
 [Epoch 2/3] 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ Loss: 3.2314 | Accuracy: 72.9% 
 [Epoch 3/3] 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 Loss: 0.8231 | Accuracy: 95.6%
 
-Training Complete! Model Achieved 100% GOAT Status.
+Training Complete! Achieved 100% GOAT Status.
 Cristiano Ronaldo says: **SIUUU!**
